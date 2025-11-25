@@ -237,6 +237,9 @@ python app.py
 **Misbah Ahmed Nauman**  
 Portfolio: [MisbahAN.com](https://MisbahAN.com)
 
+**Aisha Suhail Khan**  
+Portfolio: [AishaSK.com](https://www.aishask.com/)
+
 ---
 
 _This project is for educational purposes only. Always conduct your own research before making investment decisions. The sentiment analysis provided should not be used as the sole basis for financial decisions._
